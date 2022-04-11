@@ -1,0 +1,67 @@
+.poljeC{
+    margin-top: 0px;
+    height: 70px;
+    width: 70px;
+    padding: 20px;
+    background-color: rgba(125,148,93,256);
+    color: white;
+    display: inline-block;
+    text-align: center;
+
+
+}
+
+.poljeB{
+    margin-top: 0px;
+    height: 70px;
+    width: 70px;
+    padding: 20px;
+    background-color: rgb(238, 238, 213);
+    color: black;
+    display: inline-block;
+    text-align: center;
+ 
+}
+
+img{
+    width: 70px;
+    height: 70px;
+}
+
+.igrac{
+    background-color: rgba(125,148,93,255);
+    width: 500px;
+    padding: 20px;
+    color: rgba(238,238,213,255);
+    text-align: center;
+    margin-left: 170px;
+    border-radius: 30px;
+    font-size: large;
+    font-style: italic;
+}
+
+#izbor{
+    background-color: rgba(238,238,213);
+    height: 80px;
+    width: 300px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 400px;
+    
+    
+}
+
+#promotion{
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 880px;
+    width: 880px;
+    position: absolute;
+    top: 26px;
+    text-align: center;
+    visibility: hidden;
+    
+    
+    
+    
+}
